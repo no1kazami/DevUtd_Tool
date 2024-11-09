@@ -1,0 +1,15 @@
+# ignore all files in the directory
+__pycache__
+build
+Data
+dist
+
+# ignore files
+Command.txt
+DevUtd_Firebase_key.json
+DevUtd_GUI_Main.spec
+last_DevUtd_Version.txt
+last_FireBaseDB_MatchInfo.json
+last_FireBaseDB_PlayerInfo.json
+last_FireBaseDB_StadiumInfo.json
+last_FireBaseDB_TeamInfo.json

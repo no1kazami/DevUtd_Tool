@@ -26,7 +26,7 @@
 - <img src="Resources/DevUtd_Tool_03.png"  width="699" height="412"/>
   
 #### 선수 관리
--팀의 선수들의 정보를 관리하는 기능
+- 팀의 선수들의 정보를 관리하는 기능
 - <img src="Resources/DevUtd_Tool_04.png"  width="699" height="412"/>
 
 #### 매치 관리
